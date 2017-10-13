@@ -1,2 +1,2 @@
 # ccblog
-personal blod
+it is my personal blog.
